@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎓 Enthusiastic AI Engineer in the making | Computational Neuroscience aficionado | Language enthusiast
+🎓 As a CS undergrad, I am driven by a deep passion for AI and ML. I find myself immersed not only in the depths of artificial intelligence but also in exploring the intricate realms of Computational Neuroscience. Alongside, I wholeheartedly embrace my affinity for languages, weaving together a tapestry of knowledge that spans disciplines and fuels my intellectual curiosity.
 
 💡 Fascinated by algorithms and their real-world impact, I explore the intersections of AI, data, and software engineering.
 
