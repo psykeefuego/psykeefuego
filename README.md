@@ -8,6 +8,8 @@ Hello, I am Keerthana, a CS student, with a passion for Artificial Intelligence 
 
 
 
+
+
 # Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -34,10 +36,14 @@ Hello, I am Keerthana, a CS student, with a passion for Artificial Intelligence 
 
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=psykeefuego&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=psykeefuego&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=psykeefuego&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div style="display: flex; justify-content: center; align-items: center;">
+    <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psykeefuego&langs_count=10&theme=tokyonight&layout=compact" alt="psykeefuego :: Top Languages" /></p>
+    <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=psykeefuego&show_icons=true&theme=synthwave" alt="psykeefuego :: Profile Stats" /></p>
+</div>
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=psykeefuego&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{psykeefuego}/count.svg" alt="psykeefuego :: Visitor's Count" /></p>
 
