@@ -1,5 +1,5 @@
 # 🌱 About Me:
-Hello, I am Keerthana, a CS student, with a passion for Artificial Intelligence and Machine Learning. I also hold a deep interest in computational biology & neuroscience, linguistics and public speaking. I am in the penultimate year of my undergraduate degree and am excited to be seeking opportunities where I can grow my expertise in machine learning and software development.
+Hello, I am Keerthana, a CS student, with a passion for Artificial Intelligence and Machine Learning. I also hold a deep interest in developing clean and efficient code, computational neuroscience, linguistics and public speaking. I am in the penultimate year of my undergraduate degree and am excited to be seeking opportunities where I can grow my expertise in machine learning and software development.
 
 
 # Socials:
