@@ -34,10 +34,10 @@ Hello, I am Keerthana, a CS student, with a passion for Artificial Intelligence 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
 
 
-# GitHub Stats:
+<!--# GitHub Stats:
 <div style="display: flex; justify-content: center; align-items: center;">
     <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psykeefuego&langs_count=10&theme=tokyonight&layout=compact" alt="psykeefuego :: Top Languages" /></p>
-   <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=psykeefuego&show_icons=true&theme=synthwave" alt="psykeefuego :: Profile Stats" /></p>
+    <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=psykeefuego&show_icons=true&theme=synthwave" alt="psykeefuego :: Profile Stats" /></p>
 </div> -->
 
 
