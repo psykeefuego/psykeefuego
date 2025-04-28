@@ -5,6 +5,8 @@ Hello, I am Keerthana, a CS student, with a passion for Artificial Intelligence 
 # Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sksandhiri/) 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/psykeessi/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=flat-square&logo=google-chrome)](https://psykeefuego.github.io/Portfolio/)
+
 
 
 
