@@ -43,8 +43,6 @@ Hello, I am Keerthana, a CS student, with a passion for Artificial Intelligence 
 </div> -->
 
 
----
 
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{psykeefuego}/count.svg" alt="psykeefuego :: Visitor's Count" /></p>
+
 
